@@ -1,7 +1,7 @@
 ### Hey  👋 ,I'm Venkat!
 
 
-Hi, I'm Venkat Jilla, currently working as a DataScientist in CarDekho.I come with an extensive experience of working in Data Science releated fields.
+Hi, I'm Venkat Jilla, currently working as a DataScientist in CarDekho.I come with an extensive experience of working in Data Science releated field.
 
 ### Things I'm good at fire
 
